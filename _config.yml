@@ -4,7 +4,8 @@ author: Victor Choi
 email: victor_choi@berkeley.edu
 description: > # this means to ignore newlines until "baseurl:"
   Welcome! My name is Victor Choi. 
-  I do product analytics, and in this website I will write about related topics that I am interested in.
+  I will write about related topics that I am interested in on this website.
+  Feel free to look around!
 
 # social links
 github_username:  vdchoi # DO NOT include the @ character, or else the build will fail!
