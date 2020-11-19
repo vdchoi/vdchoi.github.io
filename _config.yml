@@ -2,6 +2,8 @@
 name: "Victor Choi"
 title: "Welcome to my Personal Website"
 description: "I enjoy writing about classical statistical topics, applied to real-life data"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/logo.png'
 baseurl: ''
 include: ["_pages"]
 permalink: /:title/
