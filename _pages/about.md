@@ -8,8 +8,6 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>My name is Victor Choi.</p>
-
 <p>Currently I work as a Senior Product Analyst at TrueCar, leading the product analytics teams on our Marketplace and Growth verticals. 
     I enjoy researching experimentation methods, applied machine learning, and business strategy. If you have any good receommendations, please let me know!</p>
 
