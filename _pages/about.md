@@ -8,8 +8,8 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>Currently I work as a Senior Product Analyst at TrueCar, leading the product analytics teams on our Marketplace and Growth verticals. 
-    I enjoy researching experimentation methods, applied machine learning, and business strategy. If you have any good receommendations for these topics, please let me know!</p>
+<p>I work as a Senior Product Analyst at TrueCar, responsible for product analytics and experimentation on our Marketplace and Growth product teams. 
+    I enjoy reading about new experimentation approaches, applied machine learning problems, and business strategy. If you have any good receommendations for these topics, please let me know!</p>
 
 <p>Aside from work, I love to cook, read, and travel. I'll post some of favorites around my website.</p>
 
