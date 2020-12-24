@@ -14,7 +14,9 @@ authors:
     name: Victor Choi
     display_name: Victor
     github: https://github.com/vdchoi
-    description: "Feel free to reach out"
+    gravatar: 7b2f6355e53ed29a4f377ade178aaa8a
+    linkedin: https://www.linkedin.com/in/vdchoi/
+    description: "Hi! My name is Victor Choi. I am a senior product analyst at TrueCar, managing experimentation and analytics for our Marketplace and Growth verticals."
 
 # Plugins
 plugins:
