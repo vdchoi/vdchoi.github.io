@@ -18,9 +18,9 @@ comments: true
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Connect over coffee</h5>
+<h5>Let's connect over coffee</h5>
 
-<p>Feel free to reach out over an email! Always happy to receive feedback on my work.</p>
+<p>Always happy to chat, or receive feedback on my work. Feel free to shoot me an email!</p>
 
 </div>
 </div>
