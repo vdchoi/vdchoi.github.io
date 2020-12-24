@@ -2,7 +2,7 @@
 layout: post
 title:  "First post!"
 author: victor
-categories: [ Jekyll, tutorial ]
+categories: [ Experimentation, Theoretical Statistics ]
 tags: [red, yellow]
 image: assets/images/11.jpg
 description: "My first post - testing out how everything works"
