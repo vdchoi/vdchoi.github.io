@@ -1,7 +1,7 @@
 # Site
 name: "Victor Choi"
 title: "Welcome to my Personal Website"
-description: "I enjoy writing about applied statistics. Feel free to take a look around!"
+description: "I enjoy writing about statistics. Feel free to take a look around!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: ''
