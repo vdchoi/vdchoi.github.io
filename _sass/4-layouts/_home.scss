@@ -57,6 +57,9 @@
   overflow-y: auto;
   .menu-item {
     text-align: center;
+    &:hover {
+      color: $primary-color;
+    }
   }
   .menu-link {
     position: relative;
