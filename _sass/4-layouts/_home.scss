@@ -442,6 +442,9 @@
         &:last-child {
           margin-right: 0;
         }
+        &:hover {
+          color: $primary-color;
+        }
       }
       .menu-link {
         font-size: 13px;
