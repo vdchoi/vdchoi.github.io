@@ -1,27 +1,13 @@
 ---
 layout: page
 title: About Victor
-permalink: /about
-comments: true
+image: 08.jpg
+permalink: /about/
 ---
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+I work as a Senior Product Analyst at TrueCar, responsible for product analytics and experimentation on our Marketplace and Growth product teams. 
+I enjoy reading about new experimentation approaches, applied machine learning problems, and business strategy. If you have any good receommendations for these topics, please let me know!
 
-<p>I work as a Senior Product Analyst at TrueCar, responsible for product analytics and experimentation on our Marketplace and Growth product teams. 
-    I enjoy reading about new experimentation approaches, applied machine learning problems, and business strategy. If you have any good receommendations for these topics, please let me know!</p>
+Aside from work, I love to cook, read, and travel. I'll post some of favorites around my website.
 
-<p>Aside from work, I love to cook, read, and travel. I'll post some of favorites around my website.</p>
-
-</div>
-
-<div class="col-md-4">
-
-<div class="sticky-top sticky-top-80">
-<h5>Let's connect over coffee</h5>
-
-<p>Always happy to chat, or receive feedback on my work. Feel free to shoot me an email!</p>
-
-</div>
-</div>
-</div>
+Always happy to chat, or receive feedback on my writing. Feel free to shoot me an email!

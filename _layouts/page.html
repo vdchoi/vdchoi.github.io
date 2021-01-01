@@ -1,24 +1,23 @@
 ---
 layout: default
 ---
+<div class="container">
+	<div class="row">
+		<div class="col col-12">
+			<div class="page-image-box">
+				<div class="page-image" style="background-image: url({{"/img/" | prepend: site.baseurl | append : page.image}})"></div>
+			</div>
+		</div>
+		<article class="col col-12 col-t-10 push-t-1 page">
+			<div class="page-content">
+				<div class="page-head">
+					<h1 class="page-title">{{ page.title | escape }}</h1>
+				</div>
 
-
-<section>
-    <div class="section-title">
-        <h2><span>{{ page.title }}</span></h2>
-    </div>
-
-    <div class="article-post">
-    {{content}}
-    </div>
-
-    {% if page.comments == true %}
-
-    <div id="comments" class="row mb-5">
-        <div class="col-md-8">
-            {% include disqus.html %}
-        </div>
-    </div>
-
-    {% endif %}
-</section>
+				<div class="page-body">
+					{{ content }}
+				</div>
+			</div>
+		</article> <!-- /.page -->
+	</div>
+</div>

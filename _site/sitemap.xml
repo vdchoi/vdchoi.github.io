@@ -1,37 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>https://vdchoi.github.io/</loc>
-  <lastmod>2020-12-30T22:34:31+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>http://localhost:4000/welcome-to-jekyll/</loc>
+<lastmod>2018-05-29T08:05:55-07:00</lastmod>
 </url>
 <url>
-  <loc>https://vdchoi.github.io/index.html</loc>
-  <lastmod>2020-12-30T22:34:31+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/flower-care-guide/</loc>
+<lastmod>2018-08-23T06:02:00-07:00</lastmod>
 </url>
 <url>
-  <loc>https://vdchoi.github.io/about</loc>
-  <lastmod>2020-12-30T22:34:31+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/how-to-plan-a-camping-trip/</loc>
+<lastmod>2018-08-23T06:03:00-07:00</lastmod>
 </url>
 <url>
-  <loc>https://vdchoi.github.io/first-post/</loc>
-  <lastmod>2020-12-30T22:34:31+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/the-path-to-self-perfection/</loc>
+<lastmod>2018-08-23T06:03:30-07:00</lastmod>
 </url>
 <url>
-  <loc>https://vdchoi.github.io/categories</loc>
-  <lastmod>2020-12-30T22:34:31+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>http://localhost:4000/abstraction-as-art/</loc>
+<lastmod>2018-08-23T06:03:50-07:00</lastmod>
 </url>
 <url>
-  <loc>https://vdchoi.github.io/tags</loc>
-  <lastmod>2020-12-30T22:34:31+00:00</lastmod>
-  <priority>0.64</priority>
+<loc>http://localhost:4000/premiere-on-broadway/</loc>
+<lastmod>2018-08-23T06:04:00-07:00</lastmod>
 </url>
-
-
+<url>
+<loc>http://localhost:4000/night-city-lights/</loc>
+<lastmod>2018-08-23T06:04:55-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/the-most-popular-mistakes/</loc>
+<lastmod>2018-08-23T06:05:55-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tags/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/page/2/</loc>
+</url>
 </urlset>
