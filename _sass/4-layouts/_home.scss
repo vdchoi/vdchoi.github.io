@@ -131,6 +131,9 @@
     &:first-child {
       margin-left: 0;
     }
+    &:hover {
+      color: $primary-color;
+    }
   }
 }
 
