@@ -22,7 +22,7 @@
       letter-spacing: 5px;
       color: $text;
       &:hover {
-        color: #fff;
+        color: $primary-color;
       }
     }
   }
@@ -117,7 +117,7 @@
 .nav-buttons i.ion {
   transition: color $global-transition;
   &:hover {
-    color: #fff;
+    color: $primary-color;
   }
 }
 
