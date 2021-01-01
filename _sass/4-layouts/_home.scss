@@ -442,9 +442,6 @@
         &:last-child {
           margin-right: 0;
         }
-        &:hover {
-          color: $primary-color;
-        }
       }
       .menu-link {
         font-size: 13px;
@@ -464,7 +461,7 @@
   .nav-buttons i.ion {
     transition: color $global-transition;
     &:hover {
-      color: #fff;
+      color: $primary-color;
     }
   }
 }
