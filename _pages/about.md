@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Victor
-image: 08.jpg
+image: 10.jpg
 permalink: /about/
 ---
 
