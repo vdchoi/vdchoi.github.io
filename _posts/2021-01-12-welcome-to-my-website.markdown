@@ -9,7 +9,7 @@ tags:
 
 Welcome to my Website!
 
-Feel free to take a look around. I will post frequently, in topics ranging from standard theoretical statistics topics to fun thought experiments.
+I will post light-hearted writing about my projects quite frequently here, in topics ranging from standard theoretical statistics topics to fun thought experiments.
 
 Much of the photography in the website will be from Unsplash, but I will also occasionally post my own photos as well!
 
