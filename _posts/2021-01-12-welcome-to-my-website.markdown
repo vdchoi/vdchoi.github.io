@@ -9,9 +9,9 @@ tags:
 
 Welcome to my Website!
 
-I will post light-hearted writing about my projects quite frequently here, in topics ranging from standard theoretical statistics topics to fun thought experiments.
+Often times I feel that statistical writing is quite monotonous and difficult to read. Here, I hope to put together classical statistics with creative writing in my posts on various topics, ranging from photography to though experiments. Please feel free to reach out if you have any feedback or would like to discuss ideas together!
 
-Much of the photography in the website will be from Unsplash, but I will also occasionally post my own photos as well!
+Much of the photography in the website will be from Unsplash, but I will also occasionally post my own photos as well.
 
 Hope you have a great year. Cheers!
 -Victor
