@@ -5,8 +5,9 @@
 
 <body>
 
-  {% include google-analytics.html %}
-  {% include loader.html %}
+  {% if page.layout != 'post' %}
+    {% include loader.html %}
+  {% endif %}
   {% include header.html %}
 
       {{ content }}
